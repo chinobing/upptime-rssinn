@@ -3,16 +3,18 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: rssinn
+  - name: RSSinn - RSS小黑屋
     url: https://rssinn.com
+  - name: 36kr -实时快讯
+    url: https://rssinn.com/kr/newsflashes/
+  - name: 科创板电报
+    url: https://rssinn.com/chinastarmarket/telegraph/
+  - name: 桥水（bridgewater）观察
+    url: https://rssinn.com/bridgewater/research/
+  - name: 中国会计视野论坛
+    url: https://rssinn.com/esnai
+  - name: 迅雷电影天堂
+    url: https://rssinn.com/xl720/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

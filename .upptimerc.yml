@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 #   cname: status.rssinn.com
 #   baseUrl: /upptime-rssinn
-  baseUrl: https://cdn.jsdelivr.net/gh/chinobing/upptime-rssinn@gh-pages
+  baseUrl: https://cdn.jsdelivr.net/gh/chinobing/upptime-rssinn
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   favicon: 
   name: RSSinn Status

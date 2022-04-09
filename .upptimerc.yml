@@ -5,10 +5,10 @@ repo: upptime-rssinn # The name of this repository
 sites:
 #   - name: RSSinn - RSS小黑屋
 #     url: https://rssinn.com
-  - name: 36kr -实时快讯
-    url: https://rssinn.com/kr/newsflashes/
-  - name: 科创板电报(chinastarmarket)
-    url: https://rssinn.com/chinastarmarket/telegraph/
+#   - name: 36kr -实时快讯
+#     url: https://rssinn.com/kr/newsflashes/
+#   - name: 科创板电报(chinastarmarket)
+#     url: https://rssinn.com/chinastarmarket/telegraph/
   - name: 桥水（bridgewater）观察
     url: https://rssinn.com/bridgewater/research/
   - name: 中国会计视野论坛(esnai)

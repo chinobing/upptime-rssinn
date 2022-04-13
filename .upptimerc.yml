@@ -19,6 +19,8 @@ sites:
     url: https://rssinn.com/esnai/
   - name: 迅雷电影天堂(xl720)
     url: https://rssinn.com/xl720/
+  - name: 人人影视分享热搜(yyets-top)
+    url: https://rssinn.com/yyets/top
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

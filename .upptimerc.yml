@@ -21,7 +21,7 @@ sites:
     url: https://rssinn.com/xl720/
   - name: 人人影视分享热搜(yyets-top)
     url: https://rssinn.com/yyets/top
-  - name: 人人影视分享-评论区资源-阿里云盘(yyets-top)
+  - name: 人人影视分享-评论区资源-阿里云盘(yyets-discuss)
     url: https://rssinn.com/yyets/discuss
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

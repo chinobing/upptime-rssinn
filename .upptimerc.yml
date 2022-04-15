@@ -7,8 +7,8 @@ sites:
     url: https://rssinn.com
   - name: toscrape(DEMO)
     url: https://www.rssinn.com/toscrape/quotes/
-#   - name: 科创板电报(chinastarmarket)
-#     url: https://rssinn.com/chinastarmarket/telegraph/
+  - name: 科创板电报(chinastarmarket)
+    url: https://rssinn.com/chinastarmarket/telegraph/
   - name: 36kr -实时快讯
     url: https://rssinn.com/36kr/newsflashes/
   - name: 同花顺实时快讯(10jqka-realtimenews)

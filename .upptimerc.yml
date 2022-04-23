@@ -7,13 +7,13 @@ sites:
     url: https://rssinn.com
   - name: toscrape(DEMO)
     url: https://www.rssinn.com/toscrape/quotes/
-  - name: 证监会 - 企业辅导信息
+  - name: 证监会 - 企业辅导信息(fudao)
     url: https://rssinn.com/csrc/fudao?kw=shenzhen
   - name: 科创板电报(chinastarmarket)
     url: https://rssinn.com/chinastarmarket/telegraph/
-  - name: 36kr -实时快讯
+  - name: 36kr -实时快讯(newsflashes)
     url: https://rssinn.com/36kr/newsflashes/
-  - name: 36kr -最新文章
+  - name: 36kr -最新文章(latest)
     url: https://rssinn.com/36kr/latest/
   - name: 同花顺实时快讯(10jqka-realtimenews)
     url: https://www.rssinn.com/10jqka/realtimenews/

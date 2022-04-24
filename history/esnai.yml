@@ -1,7 +1,7 @@
 url: https://rssinn.com/esnai/
-status: up
-code: 200
-responseTime: 1333
-lastUpdated: 2022-04-24T07:49:12.867Z
+status: down
+code: 502
+responseTime: 76
+lastUpdated: 2022-04-24T09:44:21.238Z
 startTime: Sat Apr 09 2022 15:10:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

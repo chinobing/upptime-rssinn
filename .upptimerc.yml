@@ -9,6 +9,8 @@ sites:
     url: https://www.rssinn.com/toscrape/quotes/
   - name: 证监会 - 企业辅导信息(fudao)
     url: https://rssinn.com/csrc/fudao
+  - name: 深交所 - IPO项目动态(szse_ipo)
+    url: https://rssinn.com/szse/ipo
   - name: 科创板电报(chinastarmarket)
     url: https://rssinn.com/chinastarmarket/telegraph/
   - name: 36kr -实时快讯(newsflashes)

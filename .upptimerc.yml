@@ -29,6 +29,8 @@ sites:
     url: https://rssinn.com/yyets/top
   - name: 人人影视分享-评论区资源-阿里云盘(yyets-discuss)
     url: https://rssinn.com/yyets/discuss
+  - name: 留园网-搜索(6park-search)
+    url: https://www.rssinn.com/6park/search?kw=%E6%B5%B7%E8%B4%BC%E7%8E%8B
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

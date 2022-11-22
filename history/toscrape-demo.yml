@@ -1,7 +1,7 @@
 url: https://www.rssinn.com/toscrape/quotes
-status: up
-code: 200
-responseTime: 610
-lastUpdated: 2022-11-21T23:25:34.452Z
+status: down
+code: 502
+responseTime: 57
+lastUpdated: 2022-11-22T02:29:10.370Z
 startTime: Mon Apr 11 2022 08:11:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
